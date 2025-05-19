@@ -145,7 +145,7 @@ Please generate a complete specification file that follows this format and thoro
 
 Here's the OpenAPI specification I want to test:
 
-[PASTE YOUR OPENAPI SPEC HERE]
+Output only the specification file as a single block of code and nothing else.
 ```
 
 This prompt will instruct the LLM to analyze your OpenAPI specification and generate a comprehensive test specification file that can be used with the Universal API Test Runner.
